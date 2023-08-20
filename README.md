@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I enjoy looking into newtechnologies, crafting innovative solutions, and devising clever shortcuts to enhance efficiency<br>🎓 Studying Full Stack Developer in 4Geeks Academy.<br>🔭 Looking to delve deeper in the world of backend development<br>🤝 Looking to contribute to a team as a junior software developer<br>📫 You can reach me at diucapuig@gmail.com
+💡 I enjoy looking into new technologies, crafting innovative solutions, and devising clever shortcuts to enhance efficiency<br>🎓 Studying Full Stack Developer in 4Geeks Academy.<br>🔭 Looking to delve deeper in the world of backend development<br>🤝 Looking to contribute to a team as a junior software developer<br>📫 You can reach me at diucapuig@gmail.com
 
 
 ## 🌐 Socials:
